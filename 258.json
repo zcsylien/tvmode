@@ -2683,7 +2683,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://gitee.com/luobenji/luobenji/raw/master/custom_spider.jar",
+  "spider": "https://github.com/lite-cucumber/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
   "ijk": [
     {
       "group": "软解码",
